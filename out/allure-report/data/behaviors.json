@@ -1,0 +1,83 @@
+{
+  "features" : [ {
+    "title" : "СозданиеФункционала",
+    "statistic" : {
+      "total" : 3,
+      "passed" : 0,
+      "pending" : 2,
+      "canceled" : 0,
+      "failed" : 1,
+      "broken" : 0
+    },
+    "stories" : [ {
+      "uid" : "b9f4f306e93bfe12",
+      "title" : "Обработка требований",
+      "statistic" : {
+        "total" : 1,
+        "passed" : 0,
+        "pending" : 0,
+        "canceled" : 0,
+        "failed" : 1,
+        "broken" : 0
+      },
+      "testCases" : [ {
+        "uid" : "f87da2d8462f594b",
+        "name" : "Обработка требований",
+        "title" : "Обработка требований",
+        "time" : {
+          "start" : 63616048654339,
+          "stop" : 63616048655372,
+          "duration" : 1033
+        },
+        "severity" : "NORMAL",
+        "status" : "FAILED"
+      } ]
+    }, {
+      "uid" : "54a22bdd53d6c7a2",
+      "title" : "Разработка согласно требованиям",
+      "statistic" : {
+        "total" : 1,
+        "passed" : 0,
+        "pending" : 1,
+        "canceled" : 0,
+        "failed" : 0,
+        "broken" : 0
+      },
+      "testCases" : [ {
+        "uid" : "d2a056a988e9d72d",
+        "name" : "Разработка согласно требованиям",
+        "title" : "Разработка согласно требованиям",
+        "time" : {
+          "start" : 63616048656882,
+          "stop" : 63616048657681,
+          "duration" : 799
+        },
+        "severity" : "NORMAL",
+        "status" : "PENDING"
+      } ]
+    }, {
+      "uid" : "390b75479e8c97c4",
+      "title" : "тестирование",
+      "statistic" : {
+        "total" : 1,
+        "passed" : 0,
+        "pending" : 1,
+        "canceled" : 0,
+        "failed" : 0,
+        "broken" : 0
+      },
+      "testCases" : [ {
+        "uid" : "eac120e88b83185e",
+        "name" : "тестирование",
+        "title" : "Тестирование",
+        "time" : {
+          "start" : 63616048657891,
+          "stop" : 63616048658296,
+          "duration" : 405
+        },
+        "severity" : "NORMAL",
+        "status" : "PENDING"
+      } ]
+    } ]
+  } ]
+}

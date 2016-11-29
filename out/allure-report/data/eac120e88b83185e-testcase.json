@@ -1,0 +1,110 @@
+{
+  "uid" : "eac120e88b83185e",
+  "name" : "тестирование",
+  "title" : "Тестирование",
+  "time" : {
+    "start" : 63616048657891,
+    "stop" : 63616048658296,
+    "duration" : 405
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 4
+  },
+  "failure" : {
+    "message" : "Не реализовано.",
+    "stackTrace" : null
+  },
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PENDING",
+  "testId" : null,
+  "suite" : {
+    "uid" : "b1ebd44cd10cd11f",
+    "name" : "СозданиеФункционала",
+    "title" : "СозданиеФункционала"
+  },
+  "steps" : [ {
+    "name" : "Дано Получены требования от заказчика",
+    "title" : "Дано Получены требования от заказчика",
+    "time" : {
+      "start" : 63616048658076,
+      "stop" : 63616048658076,
+      "duration" : 0
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  }, {
+    "name" : "Когда Функционал разработан",
+    "title" : "Когда Функционал разработан",
+    "time" : {
+      "start" : 63616048658281,
+      "stop" : 63616048658296,
+      "duration" : 15
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PENDING",
+    "attachments" : [ ],
+    "steps" : [ ]
+  }, {
+    "name" : "И необходимы объекты созданы",
+    "title" : "И необходимы объекты созданы",
+    "time" : {
+      "start" : 63616048658296,
+      "stop" : 63616048658296,
+      "duration" : 0
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "SKIPPED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  }, {
+    "name" : "Тогда приступаю к тестированию",
+    "title" : "Тогда приступаю к тестированию",
+    "time" : {
+      "start" : 63616048658296,
+      "stop" : 63616048658296,
+      "duration" : 0
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "SKIPPED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  } ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "тестирование"
+  }, {
+    "name" : "suite-name",
+    "value" : "СозданиеФункционала"
+  }, {
+    "name" : "feature",
+    "value" : "СозданиеФункционала"
+  }, {
+    "name" : "framework",
+    "value" : "vanessa-behavior"
+  }, {
+    "name" : "suite-title",
+    "value" : null
+  }, {
+    "name" : "language",
+    "value" : "1С"
+  } ],
+  "parameters" : [ ]
+}

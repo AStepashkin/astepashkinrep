@@ -1,0 +1,95 @@
+{
+  "uid" : "d2a056a988e9d72d",
+  "name" : "Разработка согласно требованиям",
+  "title" : "Разработка согласно требованиям",
+  "time" : {
+    "start" : 63616048656882,
+    "stop" : 63616048657681,
+    "duration" : 799
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 3
+  },
+  "failure" : {
+    "message" : "Не реализовано.",
+    "stackTrace" : null
+  },
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PENDING",
+  "testId" : null,
+  "suite" : {
+    "uid" : "b1ebd44cd10cd11f",
+    "name" : "СозданиеФункционала",
+    "title" : "СозданиеФункционала"
+  },
+  "steps" : [ {
+    "name" : "Дано Получены требования от заказчика",
+    "title" : "Дано Получены требования от заказчика",
+    "time" : {
+      "start" : 63616048657063,
+      "stop" : 63616048657064,
+      "duration" : 1
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  }, {
+    "name" : "Когда Способ реализации выбран",
+    "title" : "Когда Способ реализации выбран",
+    "time" : {
+      "start" : 63616048657266,
+      "stop" : 63616048657371,
+      "duration" : 105
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  }, {
+    "name" : "Тогда Приступаю к реализации",
+    "title" : "Тогда Приступаю к реализации",
+    "time" : {
+      "start" : 63616048657666,
+      "stop" : 63616048657681,
+      "duration" : 15
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PENDING",
+    "attachments" : [ ],
+    "steps" : [ ]
+  } ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "labels" : [ {
+    "name" : "suite-name",
+    "value" : "СозданиеФункционала"
+  }, {
+    "name" : "feature",
+    "value" : "СозданиеФункционала"
+  }, {
+    "name" : "framework",
+    "value" : "vanessa-behavior"
+  }, {
+    "name" : "suite-title",
+    "value" : null
+  }, {
+    "name" : "story",
+    "value" : "Разработка согласно требованиям"
+  }, {
+    "name" : "language",
+    "value" : "1С"
+  } ],
+  "parameters" : [ ]
+}

@@ -1,0 +1,116 @@
+{
+  "uid" : "f87da2d8462f594b",
+  "name" : "Обработка требований",
+  "title" : "Обработка требований",
+  "time" : {
+    "start" : 63616048654339,
+    "stop" : 63616048655372,
+    "duration" : 1033
+  },
+  "summary" : {
+    "attachments" : 1,
+    "steps" : 4
+  },
+  "failure" : {
+    "message" : "{Форма.Форма.Форма(99)}: Ошибка; ИмяФайла=D:\\Степашкин\\TestRepo\\Features\\Drafts\\step_definitions\\СозданиеФункционала.epf, ИмяПроцедуры=ПонялСутьЗадачи, версия VB=ver 1.059, версия платформы=8.3.7.2008, режим совместимости=НеИспользовать",
+    "stackTrace" : null
+  },
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "FAILED",
+  "testId" : null,
+  "suite" : {
+    "uid" : "b1ebd44cd10cd11f",
+    "name" : "СозданиеФункционала",
+    "title" : "СозданиеФункционала"
+  },
+  "steps" : [ {
+    "name" : "Дано Получены требования от заказчика",
+    "title" : "Дано Получены требования от заказчика",
+    "time" : {
+      "start" : 63616048654620,
+      "stop" : 63616048654620,
+      "duration" : 0
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  }, {
+    "name" : "Когда прочитал требования",
+    "title" : "Когда прочитал требования",
+    "time" : {
+      "start" : 63616048654825,
+      "stop" : 63616048654925,
+      "duration" : 100
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  }, {
+    "name" : "И понял суть задачи",
+    "title" : "И понял суть задачи",
+    "time" : {
+      "start" : 63616048655237,
+      "stop" : 63616048655372,
+      "duration" : 135
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "FAILED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  }, {
+    "name" : "Тогда я начинаю выбирать способ реализации",
+    "title" : "Тогда я начинаю выбирать способ реализации",
+    "time" : {
+      "start" : 63616048655377,
+      "stop" : 63616048655377,
+      "duration" : 0
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "SKIPPED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  } ],
+  "attachments" : [ {
+    "title" : "screenshot",
+    "source" : "fe6dd246-fcd6-443a-8262-2e595d4540e3-attachment.png",
+    "type" : null,
+    "size" : 121073,
+    "uid" : "37585cea4cd52c9c"
+  } ],
+  "issues" : [ ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "Обработка требований"
+  }, {
+    "name" : "suite-name",
+    "value" : "СозданиеФункционала"
+  }, {
+    "name" : "feature",
+    "value" : "СозданиеФункционала"
+  }, {
+    "name" : "framework",
+    "value" : "vanessa-behavior"
+  }, {
+    "name" : "suite-title",
+    "value" : null
+  }, {
+    "name" : "language",
+    "value" : "1С"
+  } ],
+  "parameters" : [ ]
+}

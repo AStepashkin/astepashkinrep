@@ -1,0 +1,29 @@
+{
+  "defectsList" : [ {
+    "title" : "Product defects",
+    "status" : "FAILED",
+    "defects" : [ {
+      "uid" : "bfaf3764ceabd3e3",
+      "failure" : {
+        "message" : "{Форма.Форма.Форма(99)}: Ошибка; ИмяФайла=D:\\Степашкин\\TestRepo\\Features\\Drafts\\step_definitions\\СозданиеФункционала.epf, ИмяПроцедуры=ПонялСутьЗадачи, версия VB=ver 1.059, версия платформы=8.3.7.2008, режим совместимости=НеИспользовать",
+        "stackTrace" : null
+      },
+      "testCases" : [ {
+        "uid" : "f87da2d8462f594b",
+        "name" : "Обработка требований",
+        "title" : "Обработка требований",
+        "time" : {
+          "start" : 63616048654339,
+          "stop" : 63616048655372,
+          "duration" : 1033
+        },
+        "severity" : "NORMAL",
+        "status" : "FAILED"
+      } ]
+    } ]
+  }, {
+    "title" : "Test defects",
+    "status" : "BROKEN",
+    "defects" : [ ]
+  } ]
+}

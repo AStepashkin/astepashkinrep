@@ -1,0 +1,42 @@
+{
+  "hosts" : [ {
+    "title" : "default",
+    "threads" : [ {
+      "title" : "default",
+      "testCases" : [ {
+        "uid" : "f87da2d8462f594b",
+        "name" : "Обработка требований",
+        "title" : "Обработка требований",
+        "time" : {
+          "start" : 63616048654339,
+          "stop" : 63616048655372,
+          "duration" : 1033
+        },
+        "severity" : "NORMAL",
+        "status" : "FAILED"
+      }, {
+        "uid" : "d2a056a988e9d72d",
+        "name" : "Разработка согласно требованиям",
+        "title" : "Разработка согласно требованиям",
+        "time" : {
+          "start" : 63616048656882,
+          "stop" : 63616048657681,
+          "duration" : 799
+        },
+        "severity" : "NORMAL",
+        "status" : "PENDING"
+      }, {
+        "uid" : "eac120e88b83185e",
+        "name" : "тестирование",
+        "title" : "Тестирование",
+        "time" : {
+          "start" : 63616048657891,
+          "stop" : 63616048658296,
+          "duration" : 405
+        },
+        "severity" : "NORMAL",
+        "status" : "PENDING"
+      } ]
+    } ]
+  } ]
+}
