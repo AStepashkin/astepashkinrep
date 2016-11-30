@@ -3,19 +3,19 @@
     "title" : "Product defects",
     "status" : "FAILED",
     "defects" : [ {
-      "uid" : "bfaf3764ceabd3e3",
+      "uid" : "36e63c31be7eb089",
       "failure" : {
         "message" : "{Форма.Форма.Форма(99)}: Ошибка; ИмяФайла=D:\\Степашкин\\TestRepo\\Features\\Drafts\\step_definitions\\СозданиеФункционала.epf, ИмяПроцедуры=ПонялСутьЗадачи, версия VB=ver 1.059, версия платформы=8.3.7.2008, режим совместимости=НеИспользовать",
         "stackTrace" : null
       },
       "testCases" : [ {
-        "uid" : "f87da2d8462f594b",
+        "uid" : "58bdfce6f94f7ba8",
         "name" : "Обработка требований",
         "title" : "Обработка требований",
         "time" : {
-          "start" : 63616048654339,
-          "stop" : 63616048655372,
-          "duration" : 1033
+          "start" : 63616084978162,
+          "stop" : 63616084978892,
+          "duration" : 730
         },
         "severity" : "NORMAL",
         "status" : "FAILED"

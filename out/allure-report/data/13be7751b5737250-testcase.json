@@ -1,15 +1,15 @@
 {
-  "uid" : "eac120e88b83185e",
-  "name" : "тестирование",
-  "title" : "Тестирование",
+  "uid" : "13be7751b5737250",
+  "name" : "Разработка согласно требованиям",
+  "title" : "Разработка согласно требованиям",
   "time" : {
-    "start" : 63616048657891,
-    "stop" : 63616048658296,
-    "duration" : 405
+    "start" : 63616084980412,
+    "stop" : 63616084981022,
+    "duration" : 610
   },
   "summary" : {
     "attachments" : 0,
-    "steps" : 4
+    "steps" : 3
   },
   "failure" : {
     "message" : "Не реализовано.",
@@ -20,7 +20,7 @@
   "status" : "PENDING",
   "testId" : null,
   "suite" : {
-    "uid" : "b1ebd44cd10cd11f",
+    "uid" : "edc83ac555cbc5e4",
     "name" : "СозданиеФункционала",
     "title" : "СозданиеФункционала"
   },
@@ -28,8 +28,8 @@
     "name" : "Дано Получены требования от заказчика",
     "title" : "Дано Получены требования от заказчика",
     "time" : {
-      "start" : 63616048658076,
-      "stop" : 63616048658076,
+      "start" : 63616084980682,
+      "stop" : 63616084980682,
       "duration" : 0
     },
     "summary" : {
@@ -40,12 +40,27 @@
     "attachments" : [ ],
     "steps" : [ ]
   }, {
-    "name" : "Когда Функционал разработан",
-    "title" : "Когда Функционал разработан",
+    "name" : "Когда Способ реализации выбран",
+    "title" : "Когда Способ реализации выбран",
     "time" : {
-      "start" : 63616048658281,
-      "stop" : 63616048658296,
-      "duration" : 15
+      "start" : 63616084980802,
+      "stop" : 63616084980802,
+      "duration" : 0
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  }, {
+    "name" : "Тогда Приступаю к реализации",
+    "title" : "Тогда Приступаю к реализации",
+    "time" : {
+      "start" : 63616084981002,
+      "stop" : 63616084981022,
+      "duration" : 20
     },
     "summary" : {
       "attachments" : 0,
@@ -54,43 +69,10 @@
     "status" : "PENDING",
     "attachments" : [ ],
     "steps" : [ ]
-  }, {
-    "name" : "И необходимы объекты созданы",
-    "title" : "И необходимы объекты созданы",
-    "time" : {
-      "start" : 63616048658296,
-      "stop" : 63616048658296,
-      "duration" : 0
-    },
-    "summary" : {
-      "attachments" : 0,
-      "steps" : 0
-    },
-    "status" : "SKIPPED",
-    "attachments" : [ ],
-    "steps" : [ ]
-  }, {
-    "name" : "Тогда приступаю к тестированию",
-    "title" : "Тогда приступаю к тестированию",
-    "time" : {
-      "start" : 63616048658296,
-      "stop" : 63616048658296,
-      "duration" : 0
-    },
-    "summary" : {
-      "attachments" : 0,
-      "steps" : 0
-    },
-    "status" : "SKIPPED",
-    "attachments" : [ ],
-    "steps" : [ ]
   } ],
   "attachments" : [ ],
   "issues" : [ ],
   "labels" : [ {
-    "name" : "story",
-    "value" : "тестирование"
-  }, {
     "name" : "suite-name",
     "value" : "СозданиеФункционала"
   }, {
@@ -102,6 +84,9 @@
   }, {
     "name" : "suite-title",
     "value" : null
+  }, {
+    "name" : "story",
+    "value" : "Разработка согласно требованиям"
   }, {
     "name" : "language",
     "value" : "1С"

@@ -11,16 +11,16 @@
         "broken" : 0
       },
       "time" : {
-        "start" : 63616048654339,
-        "stop" : 63616048658296,
-        "duration" : 3957
+        "start" : 63616084978162,
+        "stop" : 63616084981622,
+        "duration" : 3460
       }
     },
     "defects" : {
       "totalCount" : 1,
       "items" : [ {
         "count" : 1,
-        "uid" : "bfaf3764ceabd3e3",
+        "uid" : "36e63c31be7eb089",
         "message" : "{Форма.Форма.Форма(99)}: Ошибка; ИмяФайла=D:\\Степашкин\\TestRepo\\Features\\Drafts\\step_definitions\\СозданиеФункционала.epf, ИмяПроцедуры=ПонялСутьЗадачи, версия VB=ver 1.059, версия платформы=8.3.7.2008, режим совместимости=НеИспользовать",
         "status" : "FAILED"
       } ]
@@ -28,7 +28,7 @@
     "xunit" : {
       "totalCount" : 1,
       "items" : [ {
-        "uid" : "b1ebd44cd10cd11f",
+        "uid" : "edc83ac555cbc5e4",
         "title" : "СозданиеФункционала",
         "statistic" : {
           "total" : 3,

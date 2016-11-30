@@ -1,17 +1,17 @@
 {
   "time" : {
-    "start" : 63616048654339,
-    "stop" : 63616048658296,
-    "duration" : 3957
+    "start" : 63616084978162,
+    "stop" : 63616084981622,
+    "duration" : 3460
   },
   "testSuites" : [ {
-    "uid" : "b1ebd44cd10cd11f",
+    "uid" : "edc83ac555cbc5e4",
     "name" : "СозданиеФункционала",
     "title" : "СозданиеФункционала",
     "time" : {
-      "start" : 63616048654339,
-      "stop" : 63616048658296,
-      "duration" : 3957
+      "start" : 63616084978162,
+      "stop" : 63616084981622,
+      "duration" : 3460
     },
     "statistic" : {
       "total" : 3,
@@ -23,35 +23,35 @@
     },
     "description" : null,
     "testCases" : [ {
-      "uid" : "f87da2d8462f594b",
+      "uid" : "58bdfce6f94f7ba8",
       "name" : "Обработка требований",
       "title" : "Обработка требований",
       "time" : {
-        "start" : 63616048654339,
-        "stop" : 63616048655372,
-        "duration" : 1033
+        "start" : 63616084978162,
+        "stop" : 63616084978892,
+        "duration" : 730
       },
       "severity" : "NORMAL",
       "status" : "FAILED"
     }, {
-      "uid" : "d2a056a988e9d72d",
+      "uid" : "13be7751b5737250",
       "name" : "Разработка согласно требованиям",
       "title" : "Разработка согласно требованиям",
       "time" : {
-        "start" : 63616048656882,
-        "stop" : 63616048657681,
-        "duration" : 799
+        "start" : 63616084980412,
+        "stop" : 63616084981022,
+        "duration" : 610
       },
       "severity" : "NORMAL",
       "status" : "PENDING"
     }, {
-      "uid" : "eac120e88b83185e",
+      "uid" : "cdd290713e47516c",
       "name" : "тестирование",
       "title" : "Тестирование",
       "time" : {
-        "start" : 63616048657891,
-        "stop" : 63616048658296,
-        "duration" : 405
+        "start" : 63616084981242,
+        "stop" : 63616084981622,
+        "duration" : 380
       },
       "severity" : "NORMAL",
       "status" : "PENDING"

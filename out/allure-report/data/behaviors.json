@@ -10,7 +10,7 @@
       "broken" : 0
     },
     "stories" : [ {
-      "uid" : "b9f4f306e93bfe12",
+      "uid" : "6c0025b47daa130f",
       "title" : "Обработка требований",
       "statistic" : {
         "total" : 1,
@@ -21,19 +21,19 @@
         "broken" : 0
       },
       "testCases" : [ {
-        "uid" : "f87da2d8462f594b",
+        "uid" : "58bdfce6f94f7ba8",
         "name" : "Обработка требований",
         "title" : "Обработка требований",
         "time" : {
-          "start" : 63616048654339,
-          "stop" : 63616048655372,
-          "duration" : 1033
+          "start" : 63616084978162,
+          "stop" : 63616084978892,
+          "duration" : 730
         },
         "severity" : "NORMAL",
         "status" : "FAILED"
       } ]
     }, {
-      "uid" : "54a22bdd53d6c7a2",
+      "uid" : "1d811c1cb5241e20",
       "title" : "Разработка согласно требованиям",
       "statistic" : {
         "total" : 1,
@@ -44,19 +44,19 @@
         "broken" : 0
       },
       "testCases" : [ {
-        "uid" : "d2a056a988e9d72d",
+        "uid" : "13be7751b5737250",
         "name" : "Разработка согласно требованиям",
         "title" : "Разработка согласно требованиям",
         "time" : {
-          "start" : 63616048656882,
-          "stop" : 63616048657681,
-          "duration" : 799
+          "start" : 63616084980412,
+          "stop" : 63616084981022,
+          "duration" : 610
         },
         "severity" : "NORMAL",
         "status" : "PENDING"
       } ]
     }, {
-      "uid" : "390b75479e8c97c4",
+      "uid" : "3a419ef90d820a44",
       "title" : "тестирование",
       "statistic" : {
         "total" : 1,
@@ -67,13 +67,13 @@
         "broken" : 0
       },
       "testCases" : [ {
-        "uid" : "eac120e88b83185e",
+        "uid" : "cdd290713e47516c",
         "name" : "тестирование",
         "title" : "Тестирование",
         "time" : {
-          "start" : 63616048657891,
-          "stop" : 63616048658296,
-          "duration" : 405
+          "start" : 63616084981242,
+          "stop" : 63616084981622,
+          "duration" : 380
         },
         "severity" : "NORMAL",
         "status" : "PENDING"
