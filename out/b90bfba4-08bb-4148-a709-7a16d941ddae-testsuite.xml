@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ns2:test-suite xmlns:ns2="urn:model.allure.qatools.yandex.ru" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<name>ИзменениеВидаЦены</name>
+	<test-cases>
+		<test-case start="63616200367658" stop="63616200384509" status="passed">
+			<name>изменение имени организации</name>
+			<steps>
+				<step start="63616200367909" stop="63616200382843" status="passed">
+					<name>Дано Я открыл новый сеанс TestClient или подключил уже существующий</name>
+					<title>Дано Я открыл новый сеанс TestClient или подключил уже существующий</title>
+				</step>
+				<step start="63616200383100" stop="63616200383105" status="passed">
+					<name>И    Я закрыл все окна клиентского приложения</name>
+					<title>И    Я закрыл все окна клиентского приложения</title>
+				</step>
+				<step start="63616200383272" stop="63616200383281" status="passed">
+					<name>Когда В панели разделов я выбираю "Справочники"</name>
+					<title>Когда В панели разделов я выбираю "Справочники"</title>
+				</step>
+				<step start="63616200383474" stop="63616200383481" status="passed">
+					<name>И     Я нажимаю кнопку командного интерфейса "Организации"</name>
+					<title>И     Я нажимаю кнопку командного интерфейса "Организации"</title>
+				</step>
+				<step start="63616200383684" stop="63616200383687" status="passed">
+					<name>Тогда открылось окно "Организации"</name>
+					<title>Тогда открылось окно "Организации"</title>
+				</step>
+				<step start="63616200383880" stop="63616200383908" status="passed">
+					<name>И     В форме "Организации" в таблице "Список" я перехожу к строке:</name>
+					<title>И     В форме "Организации" в таблице "Список" я перехожу к строке:</title>
+				</step>
+				<step start="63616200384083" stop="63616200384090" status="passed">
+					<name>И     В форме "Организации" в ТЧ "Список" я выбираю текущую строку</name>
+					<title>И     В форме "Организации" в ТЧ "Список" я выбираю текущую строку</title>
+				</step>
+				<step start="63616200384290" stop="63616200384292" status="passed">
+					<name>Тогда открылось окно "Организация * (Организация)"</name>
+					<title>Тогда открылось окно "Организация * (Организация)"</title>
+				</step>
+				<step start="63616200384489" stop="63616200384508" status="passed">
+					<name>И     я нажимаю на кнопку "Записать и закрыть"</name>
+					<title>И     я нажимаю на кнопку "Записать и закрыть"</title>
+				</step>
+			</steps>
+			<labels>
+				<label name="story" value="изменение имени организации"/>
+			</labels>
+		</test-case>
+	</test-cases>
+	<labels>
+		<label name="feature" value="ИзменениеВидаЦены"/>
+		<label name="framework" value="vanessa-behavior"/>
+		<label name="language" value="1С"/>
+	</labels>
+</ns2:test-suite>
